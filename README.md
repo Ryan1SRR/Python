@@ -1,2 +1,8 @@
 # Python
-python learning 1
+python learning step 1
+
+Studying......
+
+
+
+Add more later...
